@@ -17,7 +17,8 @@ while file:
 			if x[z]>x[z+1]:
 				x[z],x[z+1] = x[z+1],x[z]
 
-	print("List after sorted >> ",x)
-	print('\n')
-
+	break
 	x = file.readline()
+
+print("List after sorted >> ",x)
+file.close()
