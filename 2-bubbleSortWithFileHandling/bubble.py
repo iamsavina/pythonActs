@@ -19,5 +19,4 @@ while file:
 
 	print("List after sorted >> ",x)
 	print('\n')
-
 	x = file.readline()
