@@ -11,6 +11,7 @@ while file:
 
 	print("The unsorted list is ", x)
 
+
 	#bubble sorting
 	for y in range(l):
 		for z in range(l-y-1):
