@@ -1,0 +1,4 @@
+required:
+
+pip3 install beautifulsoup4 | python -m install beautifulsoup4 
+
